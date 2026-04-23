@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const API = 'http://localhost:3001/api'
+const API = 'https://tarjetas-invitaci-n-production.up.railway.app/api'
 const ADMIN_PASSWORD = 'gaby40'
 
 const LABELS = {

@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import AdminPanel from './AdminPanel'
 
-const API = 'http://localhost:3001/api'
+const API = 'https://tarjetas-invitaci-n-production.up.railway.app/api'
 
 function InviteCard({ onConfirm }) {
   return (
